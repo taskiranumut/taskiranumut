@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Umut Taşkıran</h1>
 <h3 align="center">I'm a self-taught Junior JavaScript Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taskiranumut&label=Profile%20views&color=0e75b6&style=flat" alt="taskiranumut" /> </p>
 
 - 🔭 I’m currently working on **Kodluyoruz JavaScript Bootcamp projects**
 
@@ -18,16 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
       <a href="https://www.w3.org/html/" target="_blank">
         <img
