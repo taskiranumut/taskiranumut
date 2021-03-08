@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Umut Taşkıran</h1>
-<h3 align="center">I'm a self-taught Junior JavaScript Developer.</h3>
+<h3 align="center">I'm a self-taught Junior JavaScript Developer</h3>
 
 
 - 🔭 I’m currently working on **Kodluyoruz JavaScript Bootcamp projects**
