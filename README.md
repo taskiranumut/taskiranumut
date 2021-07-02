@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me; **umuttaskiran.tr@gmail.com**
+- 📫 How to reach me; **umuttaskiran35@gmail.com**
 
 - ⚡ **I love chess!**
 
