@@ -8,7 +8,7 @@
 
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
 
-- ⚡ **I love chess!**
+- ⚡ **Chess lover!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
