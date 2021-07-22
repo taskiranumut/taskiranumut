@@ -2,8 +2,6 @@
 <h3 align="center">I'm a self-taught Junior JavaScript Developer</h3>
 
 
-- 🔭 I’m currently working on **Kodluyoruz JavaScript Bootcamp projects**
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
