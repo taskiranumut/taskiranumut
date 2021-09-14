@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Umut Taşkıran</h1>
 <h3 align="center">I'm a self-taught Junior JavaScript Developer</h3>
 
-
-- 🌱 I’m currently learning **JavaScript**
-
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
 
 - ⚡ **Chess lover!**
