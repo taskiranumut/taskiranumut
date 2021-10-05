@@ -16,8 +16,8 @@
 <h3>🤝🏻&nbsp;Connect with Me</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/umut-taskiran/" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="25" alt="Linkedin url" title="Umut Taşkıran" /></a>
-<a href="mailto:umuttaskiran35@gmail.com" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" height="25" alt="Gmail adress" title="umuttaskiran35@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/umut-taskiran/" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="22" alt="Linkedin url" title="Umut Taşkıran" /></a>
+<a href="mailto:umuttaskiran35@gmail.com" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" height="22" alt="Gmail adress" title="umuttaskiran35@gmail.com" /></a>
 </p>
 <br>
 <h3>🛠 &nbsp;Languages and Tools</h3>
