@@ -3,8 +3,7 @@
 
 <h3 align="center">Self-taught Frontend Developer</h3>
 <br>
-<!-- <img src="https://i.ibb.co/FzkX10m/123123.png" align="right" width="450"/> -->
-<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="420"/>
+<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="440"/>
 
 <h3>🤵 &nbsp;About Me </h3>
 
@@ -36,7 +35,7 @@
 <br>
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=taskiranumut&theme=nightowl&hide_border=true" alt="taskiranumut"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskiranumut&layout=compact&theme=nightowl&hide_border=true" alt="taskiranumut"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=taskiranumut&theme=nightowl&hide_border=true" alt="taskiranumut"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskiranumut&layout=compact&theme=nightowl&hide_border=true" alt="taskiranumut"/>
 </p>
 <br>
