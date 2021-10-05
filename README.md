@@ -1,31 +1,42 @@
 <h1 align="center">Hello 👋, I'm Umut Taşkıran</h1>
-<h3 align="left">I'm a self-taught Frontend Developer</h3>
+<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=taskiranumut&label=Profile%20views&color=0e75b6&style=flat" alt="taskiranumut" /> </p> -->
-- 🔭 I’m currently working on **Vue.js applications**
+<h3 align="center">Self-taught Frontend Developer</h3>
+<br>
+<!-- <img src="https://i.ibb.co/FzkX10m/123123.png" align="right" width="450"/> -->
+<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="465"/>
 
+<h3>🤵 &nbsp;About Me </h3>
+
+- 🔭 I’m currently working on **"Bookmark Collection"** project
+- 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
-
 - ⚡ **Chess lover!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umut-taskiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut-taskiran" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://v3.vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-    <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-    <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- </p>
 <br>
-   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taskiranumut&show_icons=true&locale=en&layout=compact" alt="taskiranumut"/></p> 
-   <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taskiranumut&" alt="taskiranumut" /></p>         
+<h3>🤝🏻&nbsp;Connect with Me</h3>
 
+<p>
+<a href="https://www.linkedin.com/in/umut-taskiran/" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="26" alt="Linkedin url" title="Umut Taşkıran" /></a>
+<a href="mailto:umuttaskiran35@gmail.com" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" height="26" alt="Gmail adress" title="umuttaskiran35@gmail.com" /></a>
+</p>
+<br>
+<h3>🛠 &nbsp;Languages and Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-081424?style=flat&logo=javascript" height="30" title="JavaScript"/>
+<img src="https://img.shields.io/badge/-Vue-081424?style=flat&logo=vue.js" height="30" title="Vue"/>
+<img src="https://img.shields.io/badge/-HTML-081424?style=flat&logo=HTML5" height="30" title="HTML" />
+<img src="https://img.shields.io/badge/-CSS-081424?style=flat&logo=CSS3&logoColor=1572B6" height="30" title="CSS" />
+<img src="https://img.shields.io/badge/-Bootstrap-081424?style=flat&logo=bootstrap&logoColor=563D7C" height="30" title="Bootstrap" />
+<img src="https://img.shields.io/badge/-Webpack-081424?style=flat&logo=webpack" height="30" title="Webpack" />
+<img src="https://img.shields.io/badge/-Babel-081424?style=flat&logo=babel" height="30" title="Babel" />
+<img src="https://img.shields.io/badge/-Jest-081424?style=flat&logo=jest" height="30" title="Jest" />
+<img src="https://img.shields.io/badge/-Git-081424?style=flat&logo=git" height="30" title="Git" />
+</p>
+<br>
+<h3>⚙️ &nbsp;GitHub Analytics</h3>
+<p>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=taskiranumut&theme=nightowl&hide_border=true" alt="taskiranumut"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskiranumut&layout=compact&theme=nightowl&hide_border=true" alt="taskiranumut"/>
+</p>
+<br>
