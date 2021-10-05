@@ -35,7 +35,7 @@
 <br>
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=taskiranumut&theme=nightowl&hide_border=true" alt="taskiranumut"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=taskiranumut&theme=nightowl&hide_border=true" alt="taskiranumut"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=taskiranumut&layout=compact&theme=nightowl&hide_border=true" alt="taskiranumut"/>
 </p>
 <br>
