@@ -4,6 +4,7 @@
 <h3 align="center">Self-taught Frontend Developer</h3>
 <br>
 <img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="440"/>
+<br>
 
 <h3>🤵 &nbsp;About Me </h3>
 
