@@ -7,7 +7,7 @@
 
 <h3>🤵 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on **"Bookmark Collection"** project
+- 🔭 I’m currently working on **Patika.dev & Reengen** bootcamp projects
 - 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
 - ⚡ **Chess lover!**
