@@ -3,11 +3,11 @@
 
 <h3 align="center">Self-taught Frontend Developer</h3>
 <br>
-<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="440"/>
+<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="420"/>
 
 <h3>🤵 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on **Patika.dev & Reengen** bootcamp projects
+<!-- - 🔭 I’m currently working on **Patika.dev & Reengen** bootcamp projects -->
 - 🌱 I’m currently learning **Vue.js**
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
 - ⚡ **Chess lover!**
