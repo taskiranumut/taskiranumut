@@ -8,7 +8,7 @@
 <h3>🤵 &nbsp;About Me </h3>
 
 - 🔭 I’m working on **JavaScript** projects 
-- 🌱 I’m currently interesting in **Vue.js**
+- 🌱 I’m currently interesting in **React.js** and **Vue.js**
 - 📫 How to reach me; **umuttaskiran35@gmail.com**
 - ⚡ **Chess lover!**
 
