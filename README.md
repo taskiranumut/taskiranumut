@@ -3,7 +3,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 <br>
-<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="420"/>
+<img src="https://i.ibb.co/TBZtw9f/last.png" align="right" width="420" style="margin-bottom: 20px;"/>
 
 <h3>🤵 &nbsp;About Me </h3>
 
