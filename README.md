@@ -18,13 +18,14 @@
 <p>
 <a href="https://www.linkedin.com/in/umut-taskiran/" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="22" alt="Linkedin url" title="Umut Taşkıran" /></a>
 <a href="mailto:umuttaskiran35@gmail.com" target="_blank" alt="Gmail url"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" height="22" alt="Gmail adress" title="umuttaskiran35@gmail.com" /></a>
-<a href="https://twitter.com/taskiranumut_" target="_blank" alt="Twitter url"><img src="https://img.shields.io/badge/Twitter-2b2a2a?style=flat&logo=twitter" height="22" alt="Twitter url" title="umuttaskiran35@gmail.com" /></a>
+<a href="https://twitter.com/taskiranumut_" target="_blank" alt="Twitter url"><img src="https://img.shields.io/badge/Twitter-2b2a2a?style=flat&logo=twitter" height="22" alt="Twitter url" title="taskiranumut_" /></a>
 </p>
 <br>
 <h3>🛠 &nbsp;Languages and Tools</h3>
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-081424?style=flat&logo=javascript" height="25" title="JavaScript"/>
 <img src="https://img.shields.io/badge/-React-081424?style=flat&logo=react" height="25" title="React"/>
+<img src="https://img.shields.io/badge/-Next-081424?style=flat&logo=Next.js" height="25" title="Next"/>
 <img src="https://img.shields.io/badge/-Vue-081424?style=flat&logo=vue.js" height="25" title="Vue"/>
 <img src="https://img.shields.io/badge/-HTML-081424?style=flat&logo=HTML5" height="25" title="HTML" />
 <img src="https://img.shields.io/badge/-CSS-081424?style=flat&logo=CSS3&logoColor=1572B6" height="25" title="CSS" />
