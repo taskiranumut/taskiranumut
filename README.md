@@ -29,7 +29,10 @@
 <img src="https://img.shields.io/badge/-Vue-081424?style=flat&logo=vue.js" height="25" title="Vue"/>
 <img src="https://img.shields.io/badge/-HTML-081424?style=flat&logo=HTML5" height="25" title="HTML" />
 <img src="https://img.shields.io/badge/-CSS-081424?style=flat&logo=CSS3&logoColor=1572B6" height="25" title="CSS" />
+<img src="https://img.shields.io/badge/-SASS-081424?style=flat&logo=sass" height="25" title="SASS" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-081424?style=flat&logo=tailwindcss" height="25" title="Tailwind" />
 <img src="https://img.shields.io/badge/-Bootstrap-081424?style=flat&logo=bootstrap&logoColor=563D7C" height="25" title="Bootstrap" />
+<img src="https://img.shields.io/badge/-Redux-081424?style=flat&logo=redux" height="25" title="Redux" />
 <img src="https://img.shields.io/badge/-Webpack-081424?style=flat&logo=webpack" height="25" title="Webpack" />
 <img src="https://img.shields.io/badge/-Babel-081424?style=flat&logo=babel" height="25" title="Babel" />
 <img src="https://img.shields.io/badge/-Jest-081424?style=flat&logo=jest" height="25" title="Jest" />
