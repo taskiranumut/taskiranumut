@@ -23,12 +23,13 @@
 <h3>🛠 &nbsp;Languages and Tools</h3>
 <h4>Specialties:</h4>
 <p>
-  <img src="https://img.shields.io/badge/-JavaScript-081424?style=flat&logo=javascript" height="25" title="JavaScript"/>
   <img src="https://img.shields.io/badge/-React-081424?style=flat&logo=react" height="25" title="React"/>
+  <img src="https://img.shields.io/badge/-JavaScript-081424?style=flat&logo=javascript" height="25" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-081424?style=flat&logo=typescript" height="25" title="TypeScript"/>
   <img src="https://img.shields.io/badge/-HTML-081424?style=flat&logo=HTML5" height="25" title="HTML" />
   <img src="https://img.shields.io/badge/-CSS-081424?style=flat&logo=CSS3&logoColor=1572B6" height="25" title="CSS" />
-  <img src="https://img.shields.io/badge/-Bootstrap-081424?style=flat&logo=bootstrap&logoColor=563D7C" height="25" title="Bootstrap" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-081424?style=flat&logo=tailwindcss" height="25" title="Tailwind" />
+  <img src="https://img.shields.io/badge/-Bootstrap-081424?style=flat&logo=bootstrap&logoColor=563D7C" height="25" title="Bootstrap" />
 </p>
 
 <h4>Technologies:</h4>
