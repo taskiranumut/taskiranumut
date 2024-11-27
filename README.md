@@ -16,7 +16,7 @@
 <p>
 <a href="https://www.linkedin.com/in/umut-taskiran/" target="_blank" alt="Linkedin url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="22" alt="Linkedin url" title="Umut Taşkıran" /></a>
 <a href="mailto:umuttaskiran.info@gmail.com" target="_blank" alt="Gmail url"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" height="22" alt="Gmail adress" title="umuttaskiran35@gmail.com" /></a>
-<a href="https://twitter.com/taskiranumut_" target="_blank" alt="Twitter url"><img src="https://img.shields.io/badge/Twitter-2b2a2a?style=flat&logo=twitter" height="22" alt="Twitter url" title="taskiranumut_" /></a>
+<a href="https://x.com/taskiranumut_" target="_blank" alt="X url"><img src="https://img.shields.io/badge/X.com-2b2a2a?style=flat&logo=x" height="22" alt="X url" title="taskiranumut_" /></a>
 </p>
 <br>
 
