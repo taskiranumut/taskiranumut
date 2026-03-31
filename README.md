@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React, TypeScript, Next.js</h3>
 
 <p align="center">
-  Frontend-focused developer with 4+ years of experience building modern web applications.
+  Frontend-focused developer with 4 years of experience building modern web applications.
   <br />
   Based in the UK • Full right to work • Open to frontend and frontend-leaning full stack roles
 </p>
