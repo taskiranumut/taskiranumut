@@ -11,7 +11,7 @@
 
 ## 🤵 About Me
 
-- Frontend Developer with **4+ years of experience** building responsive, maintainable, and user-focused web applications
+- Frontend Developer with **4 years of experience** building responsive, maintainable, and user-focused web applications
 - Strongest in **React**, **TypeScript**, and **Next.js**, with hands-on experience building reusable UI components and modern frontend architectures
 - Comfortable integrating **REST APIs**, improving legacy codebases, and working closely with product and backend teams
 - Interested in building **AI-powered product experiences** and exploring practical use cases for LLM-based features
